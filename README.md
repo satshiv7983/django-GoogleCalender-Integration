@@ -19,7 +19,7 @@ Added demo events through django
 
 # Steps
 
-1. Register for Google Service Account
+1. Register for Google Service Account | Using OAuth 2.0 for Server to Server Applications
 
 Follow Google's directions to setup the new credentials here: developers.google.com
 
