@@ -1,5 +1,7 @@
 # django-GoogleCalender-Integration
 
+This repository provides example code for the process involved in connecting Django to Google Calendar API , which involves a Google Cloud Platform Service Account.
+
 Working Snapshot:
 
 ![image](https://user-images.githubusercontent.com/91273192/199777624-3a50abf7-dd83-4761-9d72-cd37f2ea2265.png)
